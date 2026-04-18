@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\WypozyczalniaRowerow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB2C3DF-8B2B-25F5-19E3-B1808847662A}|WypozyczalniaRowerow\\WypozyczalniaRowerow.csproj|c:\\users\\administrator\\source\\repos\\wypozyczalniarowerow\\wypozyczalniarowerow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB2C3DF-8B2B-25F5-19E3-B1808847662A}|WypozyczalniaRowerow\\WypozyczalniaRowerow.csproj|solutionrelative:wypozyczalniarowerow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB2C3DF-8B2B-25F5-19E3-B1808847662A}|WypozyczalniaRowerow\\WypozyczalniaRowerow.csproj|c:\\users\\administrator\\source\\repos\\wypozyczalniarowerow\\wypozyczalniarowerow\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB2C3DF-8B2B-25F5-19E3-B1808847662A}|WypozyczalniaRowerow\\WypozyczalniaRowerow.csproj|solutionrelative:wypozyczalniarowerow\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB2C3DF-8B2B-25F5-19E3-B1808847662A}|WypozyczalniaRowerow\\WypozyczalniaRowerow.csproj|c:\\users\\administrator\\source\\repos\\wypozyczalniarowerow\\wypozyczalniarowerow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECB2C3DF-8B2B-25F5-19E3-B1808847662A}|WypozyczalniaRowerow\\WypozyczalniaRowerow.csproj|solutionrelative:wypozyczalniarowerow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB2C3DF-8B2B-25F5-19E3-B1808847662A}|WypozyczalniaRowerow\\WypozyczalniaRowerow.csproj|c:\\users\\administrator\\source\\repos\\wypozyczalniarowerow\\wypozyczalniarowerow\\validations\\klientvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB2C3DF-8B2B-25F5-19E3-B1808847662A}|WypozyczalniaRowerow\\WypozyczalniaRowerow.csproj|solutionrelative:wypozyczalniarowerow\\validations\\klientvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB2C3DF-8B2B-25F5-19E3-B1808847662A}|WypozyczalniaRowerow\\WypozyczalniaRowerow.csproj|c:\\users\\administrator\\source\\repos\\wypozyczalniarowerow\\wypozyczalniarowerow\\viewmodels\\relaycoammnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB2C3DF-8B2B-25F5-19E3-B1808847662A}|WypozyczalniaRowerow\\WypozyczalniaRowerow.csproj|solutionrelative:wypozyczalniarowerow\\viewmodels\\relaycoammnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB2C3DF-8B2B-25F5-19E3-B1808847662A}|WypozyczalniaRowerow\\WypozyczalniaRowerow.csproj|c:\\users\\administrator\\source\\repos\\wypozyczalniarowerow\\wypozyczalniarowerow\\mapping\\rowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB2C3DF-8B2B-25F5-19E3-B1808847662A}|WypozyczalniaRowerow\\WypozyczalniaRowerow.csproj|solutionrelative:wypozyczalniarowerow\\mapping\\rowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB2C3DF-8B2B-25F5-19E3-B1808847662A}|WypozyczalniaRowerow\\WypozyczalniaRowerow.csproj|c:\\users\\administrator\\source\\repos\\wypozyczalniarowerow\\wypozyczalniarowerow\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB2C3DF-8B2B-25F5-19E3-B1808847662A}|WypozyczalniaRowerow\\WypozyczalniaRowerow.csproj|solutionrelative:wypozyczalniarowerow\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelayCoammnd.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WypozyczalniaRowerow\\WypozyczalniaRowerow\\ViewModels\\RelayCoammnd.cs",
+              "RelativeDocumentMoniker": "WypozyczalniaRowerow\\ViewModels\\RelayCoammnd.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WypozyczalniaRowerow\\WypozyczalniaRowerow\\ViewModels\\RelayCoammnd.cs",
+              "RelativeToolTip": "WypozyczalniaRowerow\\ViewModels\\RelayCoammnd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T14:00:56.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WypozyczalniaRowerow\\WypozyczalniaRowerow\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WypozyczalniaRowerow\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WypozyczalniaRowerow\\WypozyczalniaRowerow\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WypozyczalniaRowerow\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwF0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T14:00:15.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WypozyczalniaRowerow\\WypozyczalniaRowerow\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WypozyczalniaRowerow\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WypozyczalniaRowerow\\WypozyczalniaRowerow\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "WypozyczalniaRowerow\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T09:16:14.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KlientValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WypozyczalniaRowerow\\WypozyczalniaRowerow\\Validations\\KlientValidator.cs",
+              "RelativeDocumentMoniker": "WypozyczalniaRowerow\\Validations\\KlientValidator.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WypozyczalniaRowerow\\WypozyczalniaRowerow\\Validations\\KlientValidator.cs",
+              "RelativeToolTip": "WypozyczalniaRowerow\\Validations\\KlientValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T08:21:15.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WypozyczalniaRowerow\\WypozyczalniaRowerow\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WypozyczalniaRowerow\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WypozyczalniaRowerow\\WypozyczalniaRowerow\\MainWindow.xaml",
+              "RelativeToolTip": "WypozyczalniaRowerow\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T13:56:45.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WypozyczalniaRowerow\\WypozyczalniaRowerow\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WypozyczalniaRowerow\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WypozyczalniaRowerow\\WypozyczalniaRowerow\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WypozyczalniaRowerow\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowH4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T13:56:38.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RowerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WypozyczalniaRowerow\\WypozyczalniaRowerow\\Mapping\\RowerDto.cs",
+              "RelativeDocumentMoniker": "WypozyczalniaRowerow\\Mapping\\RowerDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WypozyczalniaRowerow\\WypozyczalniaRowerow\\Mapping\\RowerDto.cs",
+              "RelativeToolTip": "WypozyczalniaRowerow\\Mapping\\RowerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T09:43:13.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
